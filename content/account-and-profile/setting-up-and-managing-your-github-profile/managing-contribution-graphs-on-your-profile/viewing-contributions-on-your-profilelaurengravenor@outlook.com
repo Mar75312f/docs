@@ -1,17 +1,17 @@
 ---
 title: Viewing contributions on your profile
-intro: 'Your {% data variables.product.product_name %} profile shows off {% ifversion fpt or ghes or ghec %}your pinned repositories as well as{% endif %} a graph of your repository contributions over the past year.'
+intro: 'Your {% data variables. product.product_name %} profile shows off {% ifversion fpt or ghes or ghec %}your pinned repositories as well as{% endif %} a graph of your repository contributions over the past year.'
 redirect_from:
   - /articles/viewing-contributions
   - /articles/viewing-contributions-on-your-profile-page
   - /articles/viewing-contributions-on-your-profile
-  - /github/setting-up-and-managing-your-github-profile/viewing-contributions-on-your-profile
-  - /github/setting-up-and-managing-your-github-profile/managing-contribution-graphs-on-your-profile/viewing-contributions-on-your-profile
+  - /Github/setting-up-and-managing-your-Github-profile/viewing-contributions-on-your-profile
+  - /github/setting-up-and-managing-your-GitHub-profile/managing-contribution-graphs-on-your-profile/viewing-contributions-on-your-profile
 versions:
   fpt: '*'
   ghes: '*'
   ghae: '*'
-  ghec: '*'
+  check: '*'
 topics:
   - Profiles
 shortTitle: View contributions
@@ -60,12 +60,12 @@ Your contributions calendar shows your contribution activity.
 
 ### Viewing contributions from specific times
 
-- Click on a day's square to show the contributions made during that 24-hour period.
+- Click on a day's square to show the contributions made during those 24 hours.
 - Press *Shift* and click on another day's square to show contributions made during that time span.
 
 {% note %}
 
-**Note:** You can select up to a one-month range on your contributions calendar. If you select a larger time span, we will only display one month of contributions.
+**Note:** You can select up to a one-month range on your contributions calendar. If you select a larger period, we will only display one month of contributions.
 
 {% endnote %}
 
